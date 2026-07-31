@@ -21,3 +21,7 @@ Enthalten:
 
 Hinweis:
 Dies ist eine eigenständig gestaltete, private Umsetzung. Die sehr seltenen Regelketten aus mehreren TAC-/Narr-/Teufel-Sonderfällen sollten vor längeren Partien noch gezielt getestet werden.
+
+NEU IN VERSION 1.1
+- Kartenhilfe: Beim Antippen einer Karte erscheint ihre Funktion.
+- Auch beim geheimen Kartentausch kann eine Karte zuerst angesehen und danach bestätigt werden.
